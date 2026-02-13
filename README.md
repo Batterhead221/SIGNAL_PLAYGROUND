@@ -26,4 +26,3 @@ Hardware Design
 Parts List: See /HARDWARE/BOM.csv
 
 Designed and engineered by Brandon Shelly
-Portfolio Hardware Project

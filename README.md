@@ -23,7 +23,7 @@ Hardware Design
 •	Grounding: Top & Bottom copper pour with stitched ground vias
 •	Input Path: Noise-optimized routing with short trace to input capacitor
 
-Parts List: See /HARDWARE/BOM.md
+Parts List: See /HARDWARE/BOM.csv
 
 Designed and engineered by Brandon Shelly
 Portfolio Hardware Project

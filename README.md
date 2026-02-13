@@ -1,12 +1,14 @@
-# EMERSON_PCB - Electronics Learning Board
+# SIGNAL_PLAYGROUND
 
-4_EMERSON
+4_EMERSON, Electronics Learning Board
 A small interactive PCB I designed as a hands-on electronics toy for my niece.
 An educational analog hardware project.
 
 •	Resistor = brightness control
 •	Capacitor = smoothing
 •	Inductor = energy storage
+
+Press the switches and watch how each component changes the LED response in real time.
 
 Key Features
 •	Interactive LED response to different passive components
@@ -21,7 +23,7 @@ Hardware Design
 •	Grounding: Top & Bottom copper pour with stitched ground vias
 •	Input Path: Noise-optimized routing with short trace to input capacitor
 
-Parts List: See /HARDWARE/BOM.md
+Parts List: See /HARDWARE/BOM.csv
 
 Designed and engineered by Brandon Shelly
 Portfolio Hardware Project

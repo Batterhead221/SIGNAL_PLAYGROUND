@@ -1,6 +1,5 @@
 # EMERSON_PCB - Electronics Learning Board
 
-4_EMERSON
 A small interactive PCB I designed as a hands-on electronics toy for my niece.
 An educational analog hardware project.
 

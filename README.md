@@ -1,2 +1,27 @@
-# EMERSON_PCB
-Educational PCB that teaches how resistors, capacitors, and inductors affect LED behavior
+# EMERSON_PCB - Electronics Learning Board
+
+4_EMERSON
+A small interactive PCB I designed as a hands-on electronics toy for my niece.
+An educational analog hardware project.
+
+•	Resistor = brightness control
+•	Capacitor = smoothing
+•	Inductor = energy storage
+
+Key Features
+•	Interactive LED response to different passive components
+•	Dedicated channels for resistors, capacitors, and inductors
+•	Through-hole component interfaces for easy experimentation
+•	Custom silkscreen artwork and educational labeling
+•	2-layer PCB with ground plane for noise reduction
+
+Hardware Design
+•	CAD: KiCad
+•	Power: 2xAA battery holder (3V)
+•	Grounding: Top & Bottom copper pour with stitched ground vias
+•	Input Path: Noise-optimized routing with short trace to input capacitor
+
+Parts List: See /HARDWARE/BOM.md
+
+Designed and engineered by Brandon Shelly
+Portfolio Hardware Project

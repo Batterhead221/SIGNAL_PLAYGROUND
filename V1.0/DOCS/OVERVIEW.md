@@ -1,4 +1,4 @@
-#SIGNAL_PLAYGROUND (LIGHT_BOARD_TOY)
+# SIGNAL_PLAYGROUND (LIGHT_BOARD_TOY)
 
 For Emerson - Electronics Learning Board
 A small interactive PCB I designed as a hands-on electronics toy for my niece.
